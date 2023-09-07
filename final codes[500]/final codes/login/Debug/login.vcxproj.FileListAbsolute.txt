@@ -1,0 +1,19 @@
+C:\Users\Fadwa\source\repos\login\login\Debug\login.vcxproj.AssemblyReference.cache
+C:\Users\Fadwa\source\repos\login\login\Debug\login.loginFom.resources
+C:\Users\Fadwa\source\repos\login\login\Debug\login.vcxproj.GenerateResource.cache
+C:\Users\Fadwa\source\repos\login\login\Debug\login.registerForm.resources
+C:\Users\Fadwa\source\repos\login\login\Debug\login.levelsForm.resources
+C:\Users\Fadwa\source\repos\login\login\Debug\login.level1add.resources
+C:\Users\Fadwa\source\repos\login\login\Debug\login.level2sub.resources
+C:\Users\Fadwa\source\repos\login\login\Debug\login.level3multi.resources
+C:\Users\Fadwa\source\repos\login\login\Debug\login.parentForm.resources
+C:\Users\Nour Hesham\Downloads\final codes[500]\final codes\login\Debug\login.vcxproj.AssemblyReference.cache
+C:\Users\Nour Hesham\Downloads\final codes[500]\final codes\login\Debug\login.level1add.resources
+C:\Users\Nour Hesham\Downloads\final codes[500]\final codes\login\Debug\login.level2sub.resources
+C:\Users\Nour Hesham\Downloads\final codes[500]\final codes\login\Debug\login.level3multi.resources
+C:\Users\Nour Hesham\Downloads\final codes[500]\final codes\login\Debug\login.levelsForm.resources
+C:\Users\Nour Hesham\Downloads\final codes[500]\final codes\login\Debug\login.loginFom.resources
+C:\Users\Nour Hesham\Downloads\final codes[500]\final codes\login\Debug\login.parentForm.resources
+C:\Users\Nour Hesham\Downloads\final codes[500]\final codes\login\Debug\login.registerForm.resources
+C:\Users\Nour Hesham\Downloads\final codes[500]\final codes\login\Debug\login.vcxproj.GenerateResource.cache
+C:\Users\Nour Hesham\Downloads\final codes[500]\final codes\login\Debug\login.exe
